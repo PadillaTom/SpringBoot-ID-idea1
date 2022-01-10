@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar build/libs/ong-0.0.1-SNAPSHOT.jar
+web: java -Dserver.port=$PORT -jar build/libs/idea-uno-0.0.1-SNAPSHOT.jar
